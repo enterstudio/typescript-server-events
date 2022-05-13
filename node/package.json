@@ -9,7 +9,7 @@
   },
   "author": "ServiceStack",
   "dependencies": {
-    "eventsource": "^0.2.2",
+    "eventsource": "^2.0.2",
     "servicestack-client": "0.0.30"
   },
   "devDependencies": {
